@@ -1,632 +1,656 @@
-Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Port+Lligat+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Playfair+Display:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Combo:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Caveat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Alata:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Bad+Script:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Spectral:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\css
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css?ver=6.3.2
+File Name: C:\Downloaded Web Sites\my.momenkita.id\ajax\libs\OwlCarousel2\2.3.4\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css?ver=6.3.2
+File Name: C:\Downloaded Web Sites\my.momenkita.id\ajax\libs\OwlCarousel2\2.3.4\assets\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\ajax\libs\OwlCarousel2\2.3.4\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\my.momenkita.id\ajax\libs\OwlCarousel2\2.3.4\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Playfair+Display:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Port+Lligat+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Combo:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Alata:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Caveat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Spectral:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.3.2
+File Name: C:\Downloaded Web Sites\my.momenkita.id\css
 Content Type: text/css
 
 Uri: https://fonts.gstatic.com/s/alata/v9/PbytFmztEwbIoce9zqM.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\alata\v9\PbytFmztEwbIoce9zqM.ttf
-Content Type: font/ttf
-
-Uri: https://fonts.gstatic.com/s/badscript/v16/6NUT8F6PJgbFWQn47_x7pOskyQ.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\badscript\v16\6NUT8F6PJgbFWQn47_x7pOskyQ.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\alata\v9\PbytFmztEwbIoce9zqM.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/caveat/v18/WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9eIWpZA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\caveat\v18\WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9eIWpZA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\caveat\v18\WnznHAc5bAfYB2QRah7pcpNvOx-pjcB9eIWpZA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/caveat/v18/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9eIWpZA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\caveat\v18\WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9eIWpZA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\caveat\v18\WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9eIWpZA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/caveat/v18/WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6eIWpZA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\caveat\v18\WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6eIWpZA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\caveat\v18\WnznHAc5bAfYB2QRah7pcpNvOx-pjRV6eIWpZA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/caveat/v18/WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6eIWpZA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\caveat\v18\WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6eIWpZA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\caveat\v18\WnznHAc5bAfYB2QRah7pcpNvOx-pjSx6eIWpZA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/combo/v21/BXRlvF3Jh_fIhj0lDOs.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\combo\v21\BXRlvF3Jh_fIhj0lDOs.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\combo\v21\BXRlvF3Jh_fIhj0lDOs.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUXtHA_A.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUXtHA_A.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UXtHA_A.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUXtHA_A.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTXtHA_A.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTXtHA_A.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vXDXbtY.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebunDXbtY.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtY.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsunDXbtY.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/portlligatsans/v22/kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Sw.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\portlligatsans\v22\kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Sw.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\portlligatsans\v22\kmKmZrYrGBbdN1aV7Vokow6Lw4s4p7R-Sw.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCr-xNNww_2s0amA9M5kn0.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCr-xNNww_2s0amA9M5kn0.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCr-xNNww_2s0amA9M5kn0.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCs-xNNww_2s0amA9uCt23BafM.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9uCt23BafM.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9uCt23BafM.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCs-xNNww_2s0amA9uetG3BafM.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9uetG3BafM.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9uetG3BafM.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCs-xNNww_2s0amA9uSsG3BafM.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9uSsG3BafM.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9uSsG3BafM.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCs-xNNww_2s0amA9v2s23BafM.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9v2s23BafM.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9v2s23BafM.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCs-xNNww_2s0amA9vKsW3BafM.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9vKsW3BafM.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9vKsW3BafM.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCs-xNNww_2s0amA9vmtm3BafM.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9vmtm3BafM.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCs-xNNww_2s0amA9vmtm3BafM.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCt-xNNww_2s0amA9M8onrmSQ.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCt-xNNww_2s0amA9M8onrmSQ.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCt-xNNww_2s0amA9M8onrmSQ.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCu-xNNww_2s0amA9M8qonFWfSFWA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qonFWfSFWA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qonFWfSFWA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCu-xNNww_2s0amA9M8qqXCWfSFWA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qqXCWfSFWA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qqXCWfSFWA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCu-xNNww_2s0amA9M8qrXHWfSFWA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qrXHWfSFWA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qrXHWfSFWA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCu-xNNww_2s0amA9M8qsHDWfSFWA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qsHDWfSFWA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qsHDWfSFWA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCu-xNNww_2s0amA9M8qt3AWfSFWA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qt3AWfSFWA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qt3AWfSFWA.ttf
 Content Type: font/ttf
 
 Uri: https://fonts.gstatic.com/s/spectral/v13/rnCu-xNNww_2s0amA9M8qtHEWfSFWA.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qtHEWfSFWA.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\s\spectral\v13\rnCu-xNNww_2s0amA9M8qtHEWfSFWA.ttf
 Content Type: font/ttf
 
-Uri: https://inv.momenkita.id/comments/feed/
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\comments\feed\index.htm
-Content Type: application/rss+xml
-
-Uri: https://inv.momenkita.id/detail-luxury-02/
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\detail-luxury-02\index.htm
-Content Type: text/html
-
-Uri: https://inv.momenkita.id/feed/
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\feed\index.htm
-Content Type: application/rss+xml
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.13.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.13.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.13.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.13.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.13.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.13.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.13.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.13.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\js\frontend.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.13.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.13.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.13.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.13.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.13.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.8.9
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.9
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.3.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\pixelyoursite\dist\scripts\jquery.bind-first-0.2.3.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\pixelyoursite\dist\scripts\js.cookie-2.1.3.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=9.4.6
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\pixelyoursite\dist\scripts\public.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/addons/comment-kit/css/wdp_style.css?ver=2.7.6
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\addons\comment-kit\css\wdp_style.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/autosize.min.js?ver=1.14
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\autosize.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/jquery.jPages.min.js?ver=0.7
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\jquery.jPages.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/jquery.placeholder.min.js?ver=2.0.7
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\jquery.placeholder.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/addons/comment-kit/js/libs/jquery.textareaCounter.js?ver=2.0
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\addons\comment-kit\js\libs\jquery.textareaCounter.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/addons/comment-kit/js/wdp_script.js?ver=2.7.6
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\addons\comment-kit\js\wdp_script.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/css/exad-styles.min.css?ver=6.3.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\css\exad-styles.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/css/wdp-centered-timeline.min.css?ver=6.3.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\css\wdp-centered-timeline.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/css/wdp-fontello.css?ver=6.3.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\css\wdp-fontello.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/css/wdp-horizontal-styles.min.css?ver=6.3.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\css\wdp-horizontal-styles.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/css/wdp.css?ver=2.8.8
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\css\wdp.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/js/exad-scripts.min.js?ver=2.8.8
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\js\exad-scripts.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/js/qr-code.js
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\js\qr-code.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/js/wdp-horizontal.js
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\js\wdp-horizontal.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/js/wdp-swiper.min.js
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\js\wdp-swiper.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/js/wdp-wp.min.js?ver=2.8.8
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\js\wdp-wp.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/plugins/weddingpress/assets/js/wdp.min.js?ver=2.8.8
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\plugins\weddingpress\assets\js\wdp.min.js
-Content Type: application/x-javascript
-
-Uri: https://inv.momenkita.id/wp-content/themes/hello-elementor/style.min.css?ver=2.8.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\themes\hello-elementor\style.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/themes/hello-elementor/theme.min.css?ver=2.8.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\themes\hello-elementor\theme.min.css
-Content Type: text/css
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Andrea-Bellarosa.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Andrea-Bellarosa.ttf
-Content Type: application/x-font-ttf
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Bank-BCA-Logo-PNG-240p-FileVector69-300x98.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Bank-BCA-Logo-PNG-240p-FileVector69-300x98.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Bank-BCA-Logo-PNG-240p-FileVector69.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Bank-BCA-Logo-PNG-240p-FileVector69.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/cropped-MOMEN-KITA-Lingkaran-1-180x180.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\cropped-MOMEN-KITA-Lingkaran-1-180x180.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/cropped-MOMEN-KITA-Lingkaran-1-192x192.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\cropped-MOMEN-KITA-Lingkaran-1-192x192.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/cropped-MOMEN-KITA-Lingkaran-1-32x32.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\cropped-MOMEN-KITA-Lingkaran-1-32x32.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-1.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-1.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-10-768x512.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-10-768x512.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-10.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-10.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-12-768x512.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-12-768x512.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-12.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-12.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-14-768x512.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-14-768x512.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-14.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-14.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-16-768x512.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-16-768x512.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-16.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-16.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-18-768x512.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-18-768x512.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-18.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-18.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-2-768x512.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-2-768x512.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-2.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-2.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-3-768x512.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-3-768x512.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-3.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-3.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-4-768x512.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-4-768x512.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-4.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-4.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-5.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-5.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-6.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-6.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-7-768x512.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-7-768x512.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-7.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-7.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-9-768x512.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-9-768x512.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Jo-Je-9.jpg
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Jo-Je-9.jpg
-Content Type: image/jpeg
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/MOMEN-KITA-Lingkaran-150x150.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\MOMEN-KITA-Lingkaran-150x150.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/MOMEN-KITA-Lingkaran-300x300.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\MOMEN-KITA-Lingkaran-300x300.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/MOMEN-KITA-Lingkaran.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\MOMEN-KITA-Lingkaran.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/Photograph-Signature.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\Photograph-Signature.ttf
-Content Type: application/x-font-ttf
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/RainbowBeautyRegular.ttf
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\RainbowBeautyRegular.ttf
-Content Type: application/x-font-ttf
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/wedding-150x150.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\wedding-150x150.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/wedding-300x300.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\wedding-300x300.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/wedding.png
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\wedding.png
-Content Type: image/png
-
-Uri: https://inv.momenkita.id/wp-content/uploads/2022/08/y2mate.com-Beautiful.mp3
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-content\uploads\2022\08\y2mate.com-Beautiful.mp3
+Uri: https://galerinikah.my.id/wp-content/uploads/2023/10/In-Love-With-You-Christian-Bautista-1.mp3
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\In-Love-With-You-Christian-Bautista-1.mp3
 Content Type: audio/mpeg
 
-Uri: https://inv.momenkita.id/wp-includes/css/dist/block-library/style.min.css?ver=6.3.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-includes\css\dist\block-library\style.min.css
+Uri: https://my.momenkita.id/comments/feed/
+File Name: C:\Downloaded Web Sites\my.momenkita.id\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://my.momenkita.id/feed/
+File Name: C:\Downloaded Web Sites\my.momenkita.id\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://my.momenkita.id/feed/json/
+File Name: C:\Downloaded Web Sites\my.momenkita.id\feed\json\index.htm
+Content Type: application/feed+json
+
+Uri: https://my.momenkita.id/rahma-resky/
+File Name: C:\Downloaded Web Sites\my.momenkita.id\rahma-resky\index.htm
+Content Type: text/html
+
+Uri: https://my.momenkita.id/rahma-resky/?post_id=31265&comments=0&get=1000&order=DESC
+File Name: C:\Downloaded Web Sites\my.momenkita.id\rahma-resky\index-1.htm
+Content Type: text/html
+
+Uri: https://my.momenkita.id/rahma-resky/feed/
+File Name: C:\Downloaded Web Sites\my.momenkita.id\rahma-resky\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://my.momenkita.id/rahma-resky/feed/json/
+File Name: C:\Downloaded Web Sites\my.momenkita.id\rahma-resky\feed\json\index.htm
+Content Type: application/feed+json
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
 Content Type: text/css
 
-Uri: https://inv.momenkita.id/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-includes\js\dist\hooks.min.js
+Uri: https://my.momenkita.id/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
 Content Type: application/x-javascript
 
-Uri: https://inv.momenkita.id/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-includes\js\dist\i18n.min.js
+Uri: https://my.momenkita.id/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
 Content Type: application/x-javascript
 
-Uri: https://inv.momenkita.id/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Uri: https://my.momenkita.id/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
 Content Type: application/x-javascript
 
-Uri: https://inv.momenkita.id/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Uri: https://my.momenkita.id/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor-pro\assets\lib\lottie\lottie.min.js
 Content Type: application/x-javascript
 
-Uri: https://inv.momenkita.id/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Uri: https://my.momenkita.id/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
 Content Type: application/x-javascript
 
-Uri: https://inv.momenkita.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-includes\js\jquery\jquery-migrate.min.js
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
 Content Type: application/x-javascript
 
-Uri: https://inv.momenkita.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-includes\js\jquery\jquery.min.js
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\js\frontend.min.js
 Content Type: application/x-javascript
 
-Uri: https://inv.momenkita.id/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-includes\js\jquery\ui\core.min.js
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
 Content Type: application/x-javascript
 
-Uri: https://inv.momenkita.id/wp-json/
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-json\index.htm
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\e-gallery\css\e-gallery.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\e-gallery\js\e-gallery.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.21.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\jquery-numerator\jquery-numerator.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/addons/comment-kit2/css/cui_style.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\addons\comment-kit2\css\cui_style.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/addons/comment-kit2/js/cui_script.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\addons\comment-kit2\js\cui_script.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/addons/comment-kit2/js/libs/autosize.min.js?ver=1.14
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\addons\comment-kit2\js\libs\autosize.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/addons/comment-kit2/js/libs/jquery.placeholder.min.js?ver=2.0.7
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\addons\comment-kit2\js\libs\jquery.placeholder.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/assets/css/exad-styles.min.css?ver=6.3.2
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\assets\css\exad-styles.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/assets/css/modules/bdt-uikit.css?ver=3.15.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\assets\css\modules\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/assets/css/modules/ep-helper.css?ver=2.0.8
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\assets\css\modules\ep-helper.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/assets/js/exad-scripts.min.js?ver=2.0.8
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\assets\js\exad-scripts.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/assets/js/guest-form.js?ver=2.0.8
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\assets\js\guest-form.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/assets/js/modules/bdt-uikit.js?ver=3.15.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\assets\js\modules\bdt-uikit.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/assets/js/qr-code.js
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\assets\js\qr-code.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/assets/js/wdp-swiper.min.js
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\assets\js\wdp-swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/elkit/assets/js/wdp.min.js?ver=2.0.8
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\elkit\assets\js\wdp.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.8.11
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.11
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/extensions-for-elementor-form/assets/frontend-scripts.js?ver=2.0.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\extensions-for-elementor-form\assets\frontend-scripts.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/extensions-for-elementor-form/assets/style.css?ver=2.0.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\extensions-for-elementor-form\assets\style.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css?ver=2.6.13.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\jet-elements\assets\css\jet-elements-skin.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.6.13.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\jet-elements\assets\css\jet-elements.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.6.13.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\jet-elements\assets\js\jet-elements.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.2.6
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\jet-engine\assets\css\frontend.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/plugins/pixelyoursite/dist/scripts/jquery.bind-first-0.2.3.min.js?ver=6.3.2
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\pixelyoursite\dist\scripts\jquery.bind-first-0.2.3.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/pixelyoursite/dist/scripts/js.cookie-2.1.3.min.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\pixelyoursite\dist\scripts\js.cookie-2.1.3.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/plugins/pixelyoursite/dist/scripts/public.js?ver=9.4.6
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\plugins\pixelyoursite\dist\scripts\public.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-content/themes/hello-elementor/style.min.css?ver=2.8.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/themes/hello-elementor/theme.min.css?ver=2.8.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/themes/hello-theme-child/style.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\themes\hello-theme-child\style.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-content/uploads/2022/09/GreatVibes-Regular.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2022\09\GreatVibes-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/04/MOMEN-KITA-Sage-1-300x62.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\04\MOMEN-KITA-Sage-1-300x62.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/04/MOMEN-KITA-Sage-1.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\04\MOMEN-KITA-Sage-1.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/04/TAN-AEGEAN-Regular.ttf
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\04\TAN-AEGEAN-Regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/08/MOMEN-KITA-Lingkaran-150x150.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\08\MOMEN-KITA-Lingkaran-150x150.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/08/MOMEN-KITA-Lingkaran-300x300.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\08\MOMEN-KITA-Lingkaran-300x300.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/08/MOMEN-KITA-Lingkaran.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\08\MOMEN-KITA-Lingkaran.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/08/wedding-150x150.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\08\wedding-150x150.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/08/wedding-300x300.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\08\wedding-300x300.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/08/wedding.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\08\wedding.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/BCA_logo_Bank_Central_Asia-1-1024x325.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\BCA_logo_Bank_Central_Asia-1-1024x325.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/BCA_logo_Bank_Central_Asia-1-1536x488.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\BCA_logo_Bank_Central_Asia-1-1536x488.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/BCA_logo_Bank_Central_Asia-1-2048x650.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\BCA_logo_Bank_Central_Asia-1-2048x650.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/BCA_logo_Bank_Central_Asia-1-300x95.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\BCA_logo_Bank_Central_Asia-1-300x95.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/BCA_logo_Bank_Central_Asia-1-768x244.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\BCA_logo_Bank_Central_Asia-1-768x244.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/BCA_logo_Bank_Central_Asia-1.png
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\BCA_logo_Bank_Central_Asia-1.png
+Content Type: image/png
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC03940-FILEminimizer-150x150.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC03940-FILEminimizer-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC03940-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC03940-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC03961-FILEminimizer-150x150.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC03961-FILEminimizer-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC03961-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC03961-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC03980-FILEminimizer-150x150.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC03980-FILEminimizer-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC03980-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC03980-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC04375-FILEminimizer-150x150.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC04375-FILEminimizer-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC04375-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC04375-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC04772-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC04772-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC04857-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC04857-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC04861-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC04861-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC04935-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC04935-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC05021-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC05021-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC05118-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC05118-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Copy-of-DSC05207-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Copy-of-DSC05207-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/Cover-FILEminimizer-19.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\Cover-FILEminimizer-19.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/2023/10/DSC042561-FILEminimizer.jpg
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\2023\10\DSC042561-FILEminimizer.jpg
+Content Type: image/jpeg
+
+Uri: https://my.momenkita.id/wp-content/uploads/useanyfont/uaf.css?ver=1696913502
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-content\uploads\useanyfont\uaf.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://my.momenkita.id/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://my.momenkita.id/wp-json/
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-json\index.htm
 Content Type: application/json
 
-Uri: https://inv.momenkita.id/wp-json/oembed/1.0/embed?url=https:%2F%2Finv.momenkita.id%2Fdetail-luxury-02%2F
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-json\oembed\1.0\embed
+Uri: https://my.momenkita.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fmy.momenkita.id%2Frahma-resky%2F
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-json\oembed\1.0\embed
 Content Type: application/json
 
-Uri: https://inv.momenkita.id/wp-json/oembed/1.0/embed?url=https:%2F%2Finv.momenkita.id%2Fdetail-luxury-02%2F&format=xml
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-json\oembed\1.0\embed-1
+Uri: https://my.momenkita.id/wp-json/oembed/1.0/embed?url=https:%2F%2Fmy.momenkita.id%2Frahma-resky%2F&format=xml
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-json\oembed\1.0\embed-1
 Content Type: text/xml
 
-Uri: https://inv.momenkita.id/wp-json/wp/v2/pages/18
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\wp-json\wp\v2\pages\18
+Uri: https://my.momenkita.id/wp-json/wp/v2/posts/31265
+File Name: C:\Downloaded Web Sites\my.momenkita.id\wp-json\wp\v2\posts\31265
 Content Type: application/json
 
-Uri: https://inv.momenkita.id/xmlrpc.php?rsd
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\xmlrpc.php
+Uri: https://my.momenkita.id/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\my.momenkita.id\xmlrpc.php
 Content Type: text/xml
 
-Uri: https://www.facebook.com/tr?id=879401346748626&ev=PageView&noscript=1&cd[plugin]=PixelYourSite&cd[event_url]=inv.momenkita.id%2Fdetail-luxury-02%2F
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\tr-2
-Content Type: text/plain
-
-Uri: https://www.facebook.com/tr?id=879401346748626&ev=Scroll&noscript=1&cd[plugin]=PixelYourSite&cd[event_url]=inv.momenkita.id%2Fdetail-luxury-02%2F
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\tr-1
-Content Type: text/plain
-
-Uri: https://www.facebook.com/tr?id=879401346748626&ev=ViewProduct&noscript=1&cd[plugin]=PixelYourSite&cd[event_url]=inv.momenkita.id%2Fdetail-luxury-02%2F
-File Name: C:\Downloaded Web Sites\inv.momenkita.id\tr
+Uri: https://www.facebook.com/tr?id=879401346748626&ev=PageView&noscript=1&cd[plugin]=PixelYourSite&cd[event_url]=my.momenkita.id%2Frahma-resky%2F
+File Name: C:\Downloaded Web Sites\my.momenkita.id\tr
 Content Type: text/plain
 

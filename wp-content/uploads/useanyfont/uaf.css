@@ -1,0 +1,64 @@
+				@font-face {
+					font-family: 'trajanpro';
+					src: url('/wp-content/uploads/useanyfont/4212TrajanPro.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/4212TrajanPro.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.trajanpro{font-family: 'trajanpro' !important;}
+
+						@font-face {
+					font-family: 'sandrina';
+					src: url('/wp-content/uploads/useanyfont/2942Sandrina.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/2942Sandrina.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.sandrina{font-family: 'sandrina' !important;}
+
+						@font-face {
+					font-family: 'lovalina';
+					src: url('/wp-content/uploads/useanyfont/9252Lovalina.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/9252Lovalina.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.lovalina{font-family: 'lovalina' !important;}
+
+						@font-face {
+					font-family: 'avenir-roman';
+					src: url('/wp-content/uploads/useanyfont/8041Avenir-Roman.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/8041Avenir-Roman.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.avenir-roman{font-family: 'avenir-roman' !important;}
+
+						@font-face {
+					font-family: 'beauty-rainbow';
+					src: url('/wp-content/uploads/useanyfont/4243Beauty-Rainbow.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/4243Beauty-Rainbow.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.beauty-rainbow{font-family: 'beauty-rainbow' !important;}
+
+						@font-face {
+					font-family: 'photograph-signature';
+					src: url('./5947Photograph-Signature.woff2') format('woff2'),
+						url('./5947Photograph-Signature.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.photograph-signature{font-family: 'photograph-signature' !important;}
+
+						@font-face {
+					font-family: 'sachlette-signature';
+					src: url('/wp-content/uploads/useanyfont/7341Sachlette-Signature.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/7341Sachlette-Signature.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.sachlette-signature{font-family: 'sachlette-signature' !important;}
+
+		

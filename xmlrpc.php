@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink></homePageLink>
+		<homePageLink>https://my.momenkita.id</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://inv.momenkita.id/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://inv.momenkita.id/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://inv.momenkita.id/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://inv.momenkita.id/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://inv.momenkita.id/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://my.momenkita.id/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://my.momenkita.id/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://my.momenkita.id/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://my.momenkita.id/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://my.momenkita.id/wp-json/" />
 			</apis>
 	</service>
 </rsd>
