@@ -419,8 +419,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<h2 class="elementor-heading-title elementor-size-default">Kepada Yth. Bpk/Ibu/Saudara/i</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-e7c26bb wdp-sticky-section-no elementor-invisible elementor-widget elementor-widget-heading" data-id="e7c26bb" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
-				<!-- <div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Nama Tamu</h2>		</div> -->
+				<div class="elementor-widget-container">
+					<h2 id="namatamu" class="elementor-heading-title elementor-size-default"></h2>		
+				</div>
 				</div>
 				<div class="elementor-element elementor-element-3a94750 elementor-align-center elementor-mobile-align-center wdp-sticky-section-no elementor-widget elementor-widget-button" data-id="3a94750" data-element_type="widget" id="tombol-buka" data-settings="{&quot;_animation_mobile&quot;:&quot;zoomIn&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
@@ -1941,6 +1942,17 @@ function validateYouTubeUrl(url) {
 							</div>
 		</section>
 						</div>
+	<script>
+	jQuery(document).ready(function($) {
+	  // Parse the URL and retrieve the parameter value
+	  const urlParams = new URLSearchParams(window.location.search);
+	  const paramValue = urlParams.get('to'); // Replace 'yourParameterName' with the actual parameter name
+
+	  // Update the h2 element with the parameter value
+	  $('#namatamu').text(paramValue);
+	});
+	</script>
+
 		<script>jQuery(document).ready(function($){
 	let documentElement = document.documentElement;
 
